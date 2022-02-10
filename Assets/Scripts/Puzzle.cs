@@ -15,6 +15,7 @@ public class Puzzle : MonoBehaviour
     public GameObject nodePiece;
     public GameObject fallsPiece;
 
+    int score = 0;
     int width = 9;
     int height = 14;
     int[] fills;
